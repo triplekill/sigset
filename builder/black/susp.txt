@@ -1,0 +1,15 @@
+xueba5.com
+cjkypo.com
+ap-southeast-1.amazonaws.com
+ap-southeast-2.amazonaws.com
+ap-northeast-1.amazonaws.com
+ap-northeast-2.amazonaws.com
+ap-east-1.amazonaws.com
+ap-east-2.amazonaws.com
+us-east-1.amazonaws.com
+us-east-2.amazonaws.com
+us-west-1.amazonaws.com
+us-west-2.amazonaws.com
+admins.199.chat
+raw.githubusercontent.com
+gitlab.com

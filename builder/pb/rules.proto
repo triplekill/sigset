@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+package sigset.builder;
+option go_package = ".";
+
+message Rule {
+  string type = 1;
+  string domain = 2;
+}
+
+message RuleList {
+  repeated Rule entry = 1;
+}
